@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 
 
-I'm Full Stack Solution Architect The crossover between design and programming has always been of interest to meI'm Full Stack Web Developer I am beginner to Start Web developemnet , I am studying in 3rd years in IT(Information technology) and I also Know (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql).
+  I'm Full Stack Web Developer I am beginner to Start Web developemnet , I am studying in 2nd year in IT(Information technology) and I also Know (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql).
 
 
 
