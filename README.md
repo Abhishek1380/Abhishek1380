@@ -3,9 +3,9 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Abhishek-red)]([https://www.youtube.com/developerfunnel](https://youtube.com/@akhileshunde1996))
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek--01629954/)](https://www.linkedin.com/in/abhishek-unde-a40328264)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
-I'm Full Stack Solution Architect The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+
+I'm Full Stack Solution Architect The crossover between design and programming has always been of interest to meI'm Full Stack Web Developer I am beginner to Start Web developemnet , I am studying in 3rd years in IT(Information technology) and I also Know (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql).
 
 
 
