@@ -6,7 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/21335210/abhishek1380)
 
 
-  I'm Full Stack Web Developer I am beginner to Start Web developemnet , I am studying in 2nd year in IT(Information technology) and I also Know (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql).
+   Hello Everyone, I'm Abhishek. I'm currently 2nd year software IT student studying at JSPM's Rajashri Shahu College of Engineering.
+   I found that learning new technologies which helps to create development applications really suits me and I started to learn them. So I'm really looking forward for career in this growing field.
 
 
 
