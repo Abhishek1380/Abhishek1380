@@ -6,7 +6,7 @@
 
 
    Hello Everyone, I'm Abhishek. I'm currently 2nd year software IT student studying at JSPM's Rajashri Shahu College of Engineering.
-   I found that learning new technologies which helps to create development applications really suits me and I started to learn them. So I'm really looking forward for career in this growing field.
+                            I found that learning new technologies which helps to create development applications really suits me and I started to learn them. So I'm really looking forward for career in this growing field.
 
 
 
