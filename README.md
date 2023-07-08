@@ -5,11 +5,22 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/21335210/abhishek1380)
 
 
-   Hello Everyone, I'm Abhishek. I'm currently 2nd year software IT student studying at JSPM's Rajashri Shahu College of Engineering.
-                            I found that learning new technologies which helps to create development applications really suits me and I started to learn them. So I'm really looking forward for career in this growing field.
+- Hello Everyone, I'm Abhishek. I'm currently 2nd year software IT student studying at JSPM's Rajashri Shahu College of Engineering.
+-I found that learning new technologies which helps to create development applications really suits me and I started to learn them. So I'm really looking forward for career in this growing field.
+- 🔭 I’m currently working on Flipkart full stack website which includes technologies like ReactJS,NodeJS,ExpressJS,MongoDB.
+- 🌱 I’m currently learning Full Stack web development
+- 👯 I’m looking to collaborate on a Web Application which would help to solve problems of society.
+- 🤔 
+<!-- 💬 Ask me about ...--->
 
 
 
+
+
+<!---
+sushant71rao/sushant71rao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
 
 ![Visitor Count](https://profile-counter.glitch.me/Abhishek1380/count.svg)
 
@@ -143,11 +154,7 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Websites
-- 🌱 I’m currently learning edureka
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm unbeaten when I'm motivated but can be weirdo if I'm not motivated.
