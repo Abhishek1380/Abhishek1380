@@ -6,11 +6,11 @@
 
 
 - Hello Everyone, I'm Abhishek. I'm currently 2nd year software IT student studying at JSPM's Rajashri Shahu College of Engineering.
--I found that learning new technologies which helps to create development applications really suits me and I started to learn them. So I'm really looking forward for career in this growing field.
+- 🤔 I found that learning new technologies which helps to create development applications really suits me and I started enjoying exploring them. So I'm really looking forward for career in this growing field.
 - 🔭 I’m currently working on Flipkart full stack website which includes technologies like ReactJS,NodeJS,ExpressJS,MongoDB.
 - 🌱 I’m currently learning Full Stack web development
 - 👯 I’m looking to collaborate on a Web Application which would help to solve problems of society.
-- 🤔 
+ 
 <!-- 💬 Ask me about ...--->
 
 
