@@ -35,14 +35,19 @@
 ---
 
 ## 📌 Featured Projects  
-### [ClinicProX](https://clinic-pro-x.vercel.app)  
-A real-time clinic website with login/signup, admin & user dashboards, JWT role handling, and TypeScript migration.  
-*Tech:* React, TypeScript, Node.js, Express, MongoDB, JWT, TailwindCSS  
 
-### [ClinicProX](https://www.kshitijhomoeopathy.com/)  
- A real-time clinic website currently being used by clinic.
-*Tech:* React, Node.js, Express, MongoDB.
+### [ClinicProX](https://clinic-pro-x.vercel.app)  
+A real-time clinic management website with login/signup, admin & user dashboards, JWT-based role handling, and a complete TypeScript migration for improved maintainability.  
+
+**Tech Stack:** React, TypeScript, Node.js, Express, MongoDB, JWT, TailwindCSS  
+
 ---
+
+### [Kshitij Homoeopathy – Live Clinic Website](https://www.kshitijhomoeopathy.com/)  
+A production-grade clinic website actively used by a real clinic for appointment bookings, patient management, and information display.  
+
+**Tech Stack:** React, Node.js, Express, MongoDB  
+
 
 ## 📊 GitHub Stats  
 <p align="center">
