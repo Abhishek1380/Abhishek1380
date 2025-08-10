@@ -1,58 +1,64 @@
-### Hi Developers 👋
+<h1 align="center">Abhishek Unde</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | TypeScript | Lifelong Learner</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-santosh-unde-434212346">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Unde-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Abhishek1380">
+    <img src="https://img.shields.io/badge/GitHub-Abhishek1380-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://stackoverflow.com/users/21335210/abhishek1380">
+    <img src="https://img.shields.io/badge/StackOverflow-Abhishek-yellow?style=for-the-badge&logo=stackoverflow" />
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek--01629954/)](https://www.linkedin.com/in/abhishek-unde-a40328264)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/21335210/abhishek1380)
+---
 
+## 👨‍💻 About Me  
+- 🎓 Graduate IT Student @ JSPM’s Rajashri Shahu College of Engineering  
+- 💻 Passionate about building scalable, user-friendly web applications  
+- 🌱 Currently mastering *Full Stack Development* with *MERN + NextJs+ TypeScript*  
+- 🎯 Goal: Become a developer capable of solving *real-world problems* with code  
+- 🌏 Also learning *Japanese* (JLPT N4) currently aiming for *N3*  
 
-- Hello Everyone, I'm Abhishek. I'm currently 3rd year software IT student studying at JSPM's Rajashri Shahu College of Engineering.
-- 🤔 I found that learning new technologies which helps to create development applications really suits me and I started enjoying exploring them. So I'm really looking forward for career in this growing field.
-- 🔭 I’m currently working on iNotebook website with functionalities like post and it includes technologies like ReactJS,NodeJS,ExpressJS,MongoDB,Cloud.
-- 🌱 I’m currently working on Full Stack web development
-- 👯 I’m looking to collaborate on a Web Application which would help to solve problems of society.
- 
-![Visitor Count](https://profile-counter.glitch.me/Abhishek1380/count.svg)
+---
 
+## 🛠 Tech Stack  
+*Frontend:* React, Next.js, TypeScript, TailwindCSS, Bootstrap  
+*Backend:* Node.js, Express.js  
+*Database:* MongoDB, MySQL  
+*Tools & Platforms:* Git, Postman, Vercel, Linux  
+*Other Skills:* JWT Auth, REST APIs, Java  
 
-Languages and Tools: 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,cpp,c,git,linux,postman" />
+</p>
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    </a> -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-        </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
+---
 
-![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
+## 📌 Featured Projects  
+### [Clinic-Website-Advanced](https://clinic-pro-x.vercel.app)  
+A real-time clinic website with login/signup, admin & user dashboards, JWT role handling, and TypeScript migration.  
+*Tech:* React, TypeScript, Node.js, Express, MongoDB, JWT, TailwindCSS  
 
+### ClinicPro
+ A real-time clinic website currently being used by clinic
+*Tech:* React, Node.js, Express, MongoDB.
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek1380&show_icons=true&theme=react" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1380&layout=compact&theme=react" height="150" />
+</p>
+
+---
+
+## 📬 Let's Connect  
+💼 LinkedIn: [linkedin.com/in/abhishek-santosh-unde-434212346](https://www.linkedin.com/in/abhishek-santosh-unde-434212346)  
+💻 GitHub: [github.com/Abhishek1380](https://github.com/Abhishek1380)  
+📧 Email: abhishekunde1380@gmail.com  
+
+---
+ “Code is like humor — when you have to explain it, it’s bad.”
