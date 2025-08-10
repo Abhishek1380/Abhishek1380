@@ -35,12 +35,12 @@
 ---
 
 ## 📌 Featured Projects  
-### [Clinic-Website-Advanced](https://clinic-pro-x.vercel.app)  
+### [ClinicProX](https://clinic-pro-x.vercel.app)  
 A real-time clinic website with login/signup, admin & user dashboards, JWT role handling, and TypeScript migration.  
 *Tech:* React, TypeScript, Node.js, Express, MongoDB, JWT, TailwindCSS  
 
-### ClinicPro
- A real-time clinic website currently being used by clinic
+### [ClinicProX](https://www.kshitijhomoeopathy.com/)  
+ A real-time clinic website currently being used by clinic.
 *Tech:* React, Node.js, Express, MongoDB.
 ---
 
