@@ -8,9 +8,6 @@
   <a href="https://github.com/Abhishek1380">
     <img src="https://img.shields.io/badge/GitHub-Abhishek1380-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://stackoverflow.com/users/21335210/abhishek1380">
-    <img src="https://img.shields.io/badge/StackOverflow-Abhishek-yellow?style=for-the-badge&logo=stackoverflow" />
-  </a>
 </p>
 
 ---
@@ -32,7 +29,7 @@
 *Other Skills:* JWT Auth, REST APIs, Java  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,cpp,c,git,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,,git,postman" />
 </p>
 
 ---
